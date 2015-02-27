@@ -1,0 +1,45 @@
+html,body {
+    height: 100%;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.header {
+    width: 50%;
+    margin: 0 auto;
+    
+    position: relative;
+    top: 40%;
+    transform: translateY(-70%);
+}
+
+.aboutclass {
+    position: relative;
+    top: 40%;
+    transform: translateY(-70%);
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.linkclass {
+
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
+.cvclass {
+    width: 50%;
+    margin: 0 auto;
+}
+
+a {
+    color: white;
+}
+
+img {
+    float: left;
+    padding: 0 25px 25px 0;
+}
