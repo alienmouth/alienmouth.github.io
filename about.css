@@ -6,6 +6,7 @@ html,body {
 }
 
 .header {
+    display: block;
     width: 50%;
     margin: 0 auto;
     
@@ -38,6 +39,5 @@ a {
 }
 
 img {
-    display: block;
     padding: 0 25px 25px 0;
 }
