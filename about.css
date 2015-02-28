@@ -39,5 +39,11 @@ a {
 }
 
 img {
+    float: left;
     padding: 0 25px 25px 0;
+}
+
+.clearfix {
+    overflow: auto;
+    zoom: 1;
 }
