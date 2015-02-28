@@ -5,6 +5,15 @@ html,body {
     background-color: black;
 }
 
+.magic {
+    position: relative;
+    top: 40%;
+    transform: translateY(-70%);
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
 .header-wrapper {
     width:50%;
     margin:0 auto;
