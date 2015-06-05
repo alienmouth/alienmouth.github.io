@@ -22,6 +22,14 @@ html,body {
     margin: 0 auto;
 }
 
+.read {
+    position: relative;
+    top: 10%;
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
 .header-wrapper {
     width:50%;
     margin:0 auto;
