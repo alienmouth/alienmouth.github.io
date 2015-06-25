@@ -69,6 +69,17 @@ img {
     padding: 0 25px 25px 0;
 }
 
+#images_hz {
+    width: 960px;
+    height: auto;
+    overflow: hidden;
+}
+#images_hz img {
+    display: inline;
+    max-width: 50%
+    margin: 0 10px;
+}
+
 .clearfix {
     overflow: auto;
     zoom: 1;
