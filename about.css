@@ -70,14 +70,12 @@ img {
 }
 
 #images_hz {
-    width: 960px;
+    width: 400px;
     height: auto;
     overflow: hidden;
 }
 #images_hz img {
     display: inline;
-    max-width: 50%
-    width: auto;
     margin: 0 10px;
 }
 
