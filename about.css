@@ -71,7 +71,7 @@ img {
 
 #images_hz {
     width: 425px;
-    height: 550;
+    height: auto;
     overflow: hidden;
 }
 #images_hz img {
