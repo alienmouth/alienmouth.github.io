@@ -1,6 +1,6 @@
 html,body {
     height: 100%;
-    font-family: "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
+    font-family: "Lato", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
     color: white;
     background-color: #6E8EBF;
     font-weight: 100;
@@ -9,6 +9,11 @@ html,body {
 @font-face {
     font-family: "DK";
     src: url(../includes/DKDownwardFall.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "lato";
+    src url(http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext) format("truetype");
 }
 
 .ts {
