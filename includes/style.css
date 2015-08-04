@@ -54,6 +54,14 @@ body {
     margin: 0 auto;
 }
 
+.journland {
+    position: relative;
+    top: 5%;
+    
+    width: 50%;
+    margin: 0 auto;
+}
+
 .header-wrapper {
     width:50%;
     margin:0 auto;
