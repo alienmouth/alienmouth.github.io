@@ -1,9 +1,14 @@
 html,body {
     height: 100%;
-    font-family: "Helvetica Neue", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
+    font-family: "DK", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
     color: white;
     background-color: #6E8EBF;
     font-weight: 100;
+}
+
+@font-face {
+    font-family: "DK";
+    src: url(../includes/DKDownwardFall.ttf) format("truetype");
 }
 
 .magic {
