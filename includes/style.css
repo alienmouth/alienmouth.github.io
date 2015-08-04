@@ -117,3 +117,12 @@ img {
     overflow: auto;
     zoom: 1;
 }
+
+.home-nav {
+    display:inline-block;
+    margin-top:-10%;
+}
+
+.home-nav > li {
+    display:inline-block;
+}
