@@ -125,10 +125,6 @@ img {
 }
 
 .home {
-    position: relative;
-    top: 45%;
-    transform: translateY(-55%);
-
     display: flex;
     align-items: center;
 }
