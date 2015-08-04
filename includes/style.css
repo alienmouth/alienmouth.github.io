@@ -1,5 +1,6 @@
+@import url(http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext)
+
 html,body {
-    height: 100%;
     font-family: "Lato", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
     color: white;
     background-color: #6E8EBF;
@@ -11,10 +12,6 @@ html,body {
     src: url(../includes/DKDownwardFall.ttf) format("truetype");
 }
 
-@font-face {
-    font-family: "lato";
-    src url(http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext) format("truetype");
-}
 
 .ts {
     font-size: 25;
