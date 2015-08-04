@@ -5,13 +5,16 @@ html,body {
     font-weight: 100;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext)
-
 @font-face {
     font-family: "DK";
     src: url(../includes/DKDownwardFall.ttf) format("truetype");
 }
 
+@font-face {
+    font-family: "Lato";
+    @import url(http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext);
+;
+}
 
 .ts {
     font-size: 25;
