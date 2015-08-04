@@ -12,10 +12,10 @@ html,body {
 }
 
 .ts {
+    font-size: 150;
     font-family: "DK", "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
     color: white;
     background-color: #6E8EBF;
-    font-weight: 100;
 }
 
 .home {
