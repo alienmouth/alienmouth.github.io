@@ -136,6 +136,7 @@ img {
 .home img {
     width: 550px;    
     height: auto;
+    vertical-align:middle;
 }
 
 .home-nav {
