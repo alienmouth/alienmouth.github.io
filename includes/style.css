@@ -20,8 +20,8 @@ html,body {
 
 .home {
     position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 45%;
+    transform: translateY(-55%);
     
     width: 50%;
     margin: 0 auto;
