@@ -17,9 +17,8 @@ body {
     font-size: 25;
     font-family: "DK", "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
     color: white;
-    background-color: #6E8EBF;
     text-decoration: none;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 .home {
