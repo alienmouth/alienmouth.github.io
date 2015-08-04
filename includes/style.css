@@ -136,11 +136,10 @@ img {
 .home img {
     width: 550px;    
     height: auto;
-    vertical-align:middle;
 }
 
 .home-nav {
-    display:inline-block;
+    vertical-align:middle;
 }
 
 .home-nav > li {
