@@ -102,6 +102,15 @@ img {
     margin: 0 10px;
 }
 
+.img-with-text {
+    text-align: justify;
+    width: 500;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
 .clearfix {
     overflow: auto;
     zoom: 1;
