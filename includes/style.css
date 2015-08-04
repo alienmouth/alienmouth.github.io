@@ -139,7 +139,8 @@ img {
 }
 
 .home-nav {
-    vertical-align:middle;
+    position: relative;
+    top: 500px;
 }
 
 .home-nav > li {
