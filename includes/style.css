@@ -63,6 +63,10 @@ body {
     display: block;
 }
 
+.header img {
+    padding: 25px 25px 25px 25px
+}
+
 .aboutclass {
     position: relative;
     top: 40%;
@@ -89,7 +93,6 @@ a {
 
 img {
     float: left;
-    padding: 25px 25px 25px 25px
 }
 
 #images_hz {
@@ -112,6 +115,7 @@ img {
 .img-with-text img {
     display: block;
     margin: 0 auto;
+    padding: 25px 25px 25px 25px
 }
 .clearfix {
     overflow: auto;
