@@ -135,6 +135,8 @@ img {
 .home-nav {
     display:inline-block;
     margin-top:-7%;
+    position: relative;
+    left: 50;
 }
 
 .home-nav > li {
