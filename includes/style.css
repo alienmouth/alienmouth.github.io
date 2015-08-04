@@ -30,6 +30,11 @@ body {
     margin: 0 auto;
 }
 
+.home img {
+    width: 600px;    
+    height: auto;
+}
+
 .magic {
     position: relative;
     top: 40%;
