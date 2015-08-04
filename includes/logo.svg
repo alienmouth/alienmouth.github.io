@@ -9,5 +9,5 @@
 	.st3{letter-spacing:118;}
 	.st4{letter-spacing:57;}
 </style>
-<text transform="matrix(1 0 0 1 11.4946 230.4364)"><tspan x="0" y="0" class="st0 st1 st2 st3">ALIEN</tspan><tspan x="68.8" y="203.2" class="st0 st1 st2 st4">MOUTH</tspan></text>
+<text transform="matrix(1 0 0 1 11.4946 230.4364)"><tspan text-anchor="middle" x="0" y="0" class="st0 st1 st2 st3">ALIEN</tspan><tspan text-anchor="middle" x="68.8" y="203.2" class="st0 st1 st2 st4">MOUTH</tspan></text>
 </svg>
