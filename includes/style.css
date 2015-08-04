@@ -21,19 +21,6 @@ body {
     padding-top: 30px;
 }
 
-.home {
-    position: relative;
-    top: 45%;
-    transform: translateY(-55%);
-    
-    width: 50%;
-    margin: 0 auto;
-}
-
-.home img {
-    width: 550px;    
-    height: auto;
-}
 
 .magic {
     position: relative;
@@ -137,11 +124,20 @@ img {
     zoom: 1;
 }
 
+.home {
+    position: relative;
+    top: 45%;
+    transform: translateY(-55%);
+}
+
+.home img {
+    width: 550px;    
+    height: auto;
+}
+
 .home-nav {
     display:inline-block;
     margin-top:-7%;
-    position: relative;
-    left: 210px;
 }
 
 .home-nav > li {
