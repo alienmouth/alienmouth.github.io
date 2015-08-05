@@ -48,7 +48,7 @@ body {
 
 .journland {
     position: relative;
-    top: 1%;
+    top: 3%;
     
     width: 50%;
     margin: 0 auto;
@@ -70,8 +70,7 @@ body {
 
 .aboutclass {
     position: relative;
-    top: 40%;
-    transform: translateY(-70%);
+    top: 10%;
     
     width: 50%;
     margin: 0 auto;
