@@ -158,6 +158,9 @@ img {
     vertical-align:top;
     display:inline-block;
     padding-right: 60px;
+}
+
+.con-par {
     position: absolute;
     left: 50%;
 }
