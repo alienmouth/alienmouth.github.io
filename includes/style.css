@@ -154,6 +154,11 @@ img {
     text-align:center;
 }
 
+.vim {
+    display: flex;
+    justify-content: center;
+}
+
 .contents {
     vertical-align:top;
     display:inline-block;
