@@ -125,26 +125,31 @@ img {
 }
 
 .home {
-    position: relative;
-    top: 100px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: column  /* works with row or column */
+   flex-direction: column ;
+   -webkit-align-items: center;
+   align-items: center;
+   -webkit-justify-content: center;
+   justify-content: center;
+   height:100%;
 }
 
-.home img {
-    width: 550px;    
+.home > div {
+    /* Adjust padding here */
+    padding-bottom:15%;
+}
+
+#home-img {
+    width: 550px;
     height: auto;
 }
 
 .home-nav {
-    position: relative;
-    left: 297px;
-
-    display:inline-block;
+    text-align:center;
 }
 
-.home-nav > li {
+.home-nav > ul, .home-nav > ul > li {
     display:inline-block;
 }
