@@ -157,4 +157,7 @@ img {
 .contents {
     display:inline-block;
     padding-right: 60px;
+
+    display: flex;
+    align-items: center;
 }
