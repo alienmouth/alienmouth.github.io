@@ -134,6 +134,7 @@ img {
 }
 
 .home img {
+    display:inline-block;
     width: 550px;    
     height: auto;
 }
@@ -141,10 +142,6 @@ img {
 .home-nav {
     position: relative;
     left: 297px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .home-nav > li {
