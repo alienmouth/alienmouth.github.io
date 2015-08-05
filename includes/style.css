@@ -140,8 +140,11 @@ img {
 
 .home-nav {
     position: relative;
-    top: 40px;
     left: 297px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .home-nav > li {
