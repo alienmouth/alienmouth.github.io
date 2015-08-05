@@ -153,3 +153,8 @@ img {
 .home-nav {
     text-align:center;
 }
+
+.contents {
+    display:inline-block;
+    padding-right: 60px;
+}
