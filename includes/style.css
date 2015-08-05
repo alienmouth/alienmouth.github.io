@@ -169,3 +169,7 @@ img {
     vertical-align:top;
     display:inline-block;
 }
+
+.con-par {
+    padding-left: 50px;
+}
