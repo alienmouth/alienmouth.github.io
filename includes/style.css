@@ -162,15 +162,10 @@ img {
 .con1 {
     vertical-align:top;
     display:inline-block;
+    padding-right: 50px;
 }
 
 .con2 {
     vertical-align:top;
     display:inline-block;
-}
-
-.con-par {
-    width: 500px;
-    margin-left: auto ;
-    margin-right: auto ;
 }
