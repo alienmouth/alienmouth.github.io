@@ -159,12 +159,13 @@ img {
     justify-content: center;
 }
 
-.contents {
+.con1 {
     vertical-align:top;
     display:inline-block;
-    padding-right: 37px;
+    padding-right: 50px;
 }
 
-.con-par {
-    padding-left: 50px;
+.con2 {
+    vertical-align:top;
+    display:inline-block;
 }
