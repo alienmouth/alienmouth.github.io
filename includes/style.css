@@ -12,6 +12,10 @@ body {
     src: url(../includes/DKDownwardFall.ttf) format("truetype");
 }
 
+.july2015 body {
+    background-color: #3D67B2;
+}
+
 .ts {
     font-size: 25;
     font-family: "DK", "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
