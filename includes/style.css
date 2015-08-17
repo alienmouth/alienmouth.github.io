@@ -171,3 +171,11 @@ img {
 .con-par {
     padding-left: 50px;
 }
+
+.small {
+    position: relative;
+    top: 10%;
+    
+    width: 20%;
+    margin: 0 auto;  
+}
