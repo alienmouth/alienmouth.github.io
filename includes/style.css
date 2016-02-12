@@ -2,7 +2,7 @@
 
 body {
     font-family: "Open Sans", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
-    color: #F9E8A1;
+    color: #3D3515;
     background-color: #F9E8A1;
     font-weight: 100;
 }
@@ -15,7 +15,7 @@ body {
 .ts {
     font-size: 20;
     font-family: "DK", "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
-    color: white;
+    color: #3D3515;
     text-decoration: none;
     padding-top: 30px;
 }
