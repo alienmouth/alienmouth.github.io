@@ -1,51 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-  <meta charset="UTF-8">
-  <title>books</title>
-  <meta name="viewport" content="width=device-width">
-
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-  <meta content="books" property="og:title" />
-  <meta content="Alien Mouth" property="og:site_name" />
-  <meta content="http://alienmouth.com/books/" property="og:url" />
-  <meta content="Welcome to Alien Mouth. We like to publish new, fun, and good art." property="og:description" />
-  <meta content="article" property="og:type" />
-  <meta content="http://alienmouth.com/journal/alien.png" property="og:image" />
-  <meta content="OjloE54m97kbqRiG7tnMRKDTZoIoG6ojsBDEm08ZGTI" name="google-site-verification" />
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-  <title>alien mouth</title>
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
-  <link href="http://alienmouth.com/includes/alien.png" rel="icon" type="image/png" />
-
-</head>
-
-<body>
-
-  <header id="header"></header>
-
-  <div id="page">
-
-    <div id="sidebar">
-      <nav>
-        <ul>
-          <li><a href="/">home</a></li>
-          <li><a href="/about">about</a></li>
-          <li><a href="/journal">journal</a></li>
-          <li><a href="/books">books</a></li>
-          <li><a href="/reviews">reviews</a></li>
-          <li><a href="/submit">submit</a></li>
-        </ul>
-      </nav>
-    </div>
-
-    <div id="content">
-      <div class="items-wrapper">
+---
+layout: default
+title: books
+date: 2016-02-22 17:06:25
+---
+<div class="items-wrapper">
 	<div class="item">
 		<img alt="wreck/age" src="../images/wreckage.png" style="width:200px;height:200px" />
 		<p>wreck / age (SHIPPING OCT. 14, 2015)<br />
@@ -65,7 +23,7 @@
 	</div>
 </div>
 
-<p><br /><br /><br /></p>
+<br><br><br>
 
 <div class="items-wrapper">
 	<div class="item">
@@ -77,19 +35,3 @@
 		<p><a href="../books/Flammidemia.pdf">read Flammidenia online</a></p>
 	</div>
 </div>
-
-    </div>
-
-  </div>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
-
-  <script>
-    $(document).ready(function(){
-      $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
-    });
-  </script>
-
-</body>
-</html>
