@@ -3,16 +3,16 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>about</title>
+  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width">
 
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <meta content="about" property="og:title" />
+  <meta content="{{ page.title }}" property="og:title" />
   <meta content="Alien Mouth" property="og:site_name" />
-  <meta content="http://alienmouth.com/about/" property="og:url" />
+  <meta content="http://alienmouth.com{{ page.url }}" property="og:url" />
   <meta content="Welcome to Alien Mouth. We like to publish new, fun, and good art." property="og:description" />
   <meta content="article" property="og:type" />
   <meta content="http://alienmouth.com/journal/alien.png" property="og:image" />
@@ -45,20 +45,7 @@
     </div>
 
     <div id="content">
-      <p>editor in chief :: <a href="http://davisland.info">davis land</a><br />
-managing editor :: <a href="http://twitter.com/james_leaf">james leaf</a><br />
-reviewing coordinator :: <a href="http://andlohespoke.tumblr.com/">christopher morgan</a></p>
-
-<p>we make <a href="http://alienmouth.com/books">books</a> and a <a href="http://alienmouth.com/journal">journal</a></p>
-
-<p>we like to publish new, fun, and good art. you should <a href="http://alienmouth.com/submit">submit</a>.</p>
-
-<p>follow us on twitter <a href="http://twitter.com/alienmouth">@alienmouth</a><br />
-follow us on tumblr alienmouth on <a href="http://alienmouth.tumblr.com">tumblr</a><br />
-like us on facebook alienmouth on <a href="https://www.facebook.com/alienmouth/">facebook</a></p>
-
-<p>email us at <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#097;&#108;&#105;&#101;&#110;&#109;&#111;&#117;&#116;&#104;&#098;&#111;&#111;&#107;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">alienmouthbooks</a></p>
-
+      {{ content }}
     </div>
 
   </div>
