@@ -72,7 +72,7 @@ a:hover {
 }
 
 p, pre { margin-bottom: 15px; }
-ul, ol { padding: 0 0 18px 30px; }
+ul, ol { padding: 0px 50px 20px 30px; }
 ol li, ul li { margin-top: 10px; margin-bottom: 10px; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
@@ -143,6 +143,13 @@ h3 {
 	width: 500px;
 	margin: 40px auto 50px auto;
 }
+
+.top {
+    position:absolute;
+    left:0; right:0;
+    height: 92px;
+}
+
 #header h1 {
 	font-size: 32px;
 	margin-bottom: 4px;
@@ -160,29 +167,29 @@ h3 {
 }
 
 #content {
-	width: 100%
-	margin: 0 auto;
-}
-
-#sidebar {
 	position: absolute;
-	text-align: right;
-	width: 160px;
-	top: 0;
-	left: -240px;
+	left:178px; top:92px; right:0; bottom:0;
 }
 
-#sidebar li {
+#nav {
+	position: absolute;
+    left:0; top:92px; bottom: 0;
+    width: 178px;
+    text-align: right;
+    padding-right: 30px;
+}
+
+#nav li {
 	list-style: none;
 	margin: 2px 0;
 }
 
-#sidebar a {
+#nav a {
 	border: none;
-	font-family: "Open Sans", "Helvetica Neue", sans-serif;
-	font-size: 1.2em;
 	padding: 2px 4px;
 }
+
+
 
 .home {
    display: -webkit-flex;
@@ -282,7 +289,6 @@ img.center {
 }
 
 
-
 /*** Pagination ***/
 .postnavigation {
 	padding-top: 10px;
@@ -296,65 +302,4 @@ img.center {
 
 .postnavigation .right {
 	float: right;
-}
-
-
-
-/*** Media Queries ***/
-@media all and (max-width: 870px) {
-
-	#page, #header, #content, #footer {
-		width: inherit;
-		padding-left: 10px;
-		padding-right: 10px;
-	}
-
-	#sidebar {
-		position: relative;
-		text-align: left;
-		width: 100%;
-		left: 0;
-		margin: 10px 10px 20px 10px;
-	}
-
-	#sidebar nav select.mnav {
-		display: block;
-		margin-bottom: 15px;
-	}
-
-}
-
-
-
-/*** Icons ***/
-@font-face {
-  font-family: 'solarthemeicons';
-  src: url('../fonts/solarthemeicons.eot');
-  src: url('../fonts/solarthemeicons.eot#iefix') format('embedded-opentype'),
-       url('../fonts/solarthemeicons.woff') format('woff'),
-       url('../fonts/solarthemeicons.ttf') format('truetype'),
-       url('../fonts/solarthemeicons.svg#solarthemeicons') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-[class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "solarthemeicons";
-  font-style: normal;
-  font-weight: normal;
-  speak: none;
-  display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
-  margin-right: .2em;
-  text-align: center;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1.7;
-}
- 
-.icon-sun:before { content: '\e801'; }
-.icon-anchor:before { content: '\e800'; }
-.icon-anchor {
-	font-size: 65%;
 }
