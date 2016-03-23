@@ -1,0 +1,46 @@
+html, body {
+	background-color: #008ccd;
+	color: white;
+}
+
+a, a:visited, a:active {
+	color: white;
+	border-color: white;
+}
+
+a:hover {
+	background-color: #073642;
+	border-color: #073642;
+	color: white;
+}
+
+h1, h2, h3 {
+	color: white;
+}
+
+h1 a, h1 a:visited, h1 a:active {
+	color: white;
+}
+
+h1 a:hover {
+	background-color: #008ccd;
+	border-color: #008ccd;
+	color: white;
+}
+
+article h1 a.anchor {
+	color: white;
+}
+
+blockquote {
+	border-color: #008ccd;
+}
+
+#sidebar a:hover {
+	color: white;
+	background-color: #008ccd;
+}
+
+#footer {
+	border-color: #008ccd;
+}
