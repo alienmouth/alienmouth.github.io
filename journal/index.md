@@ -13,8 +13,11 @@ date: 2016-02-22 17:06:25
 <h1><b><a href="../winter2016">winter quarterly 2016</a></b></h1>
 <b>featuring: </b> Christopher Morgan, Francesca Kritikos, Gabrielle Gilbert, Jessica K Baer, Kate Monica, Katie Burke, Kaya Nicole, Kelly Schirmann, lauren elma frament, Luis Neer, Matt Margo, Madi Mae Parker, Mary Waters, Naima Yael Woods, Paul Edward Costa, Rachel Huang, S. Kay, Sara June Woods, Shy Watson, Szilvia Molnar, Waylon Cunningham, Zachary Cosby, Zooey Ghostly
 
+<h1><b><a href="../december2015">december 2015</a></b></h1>
+<b>featuring: </b>Teresa McMahon, Sara June Woods, Ryan Bender-Murphy, Oliver Zarandi, Kate Monica, Jim Walls, Ricky Garni, Brittany Swenson, Ron Gibson, Hilton Hosannah, Logan Ellis, Emily Sipiora
+
 <h1><b><a href="../november2015">november 2015</a></b></h1>
-<b>featuring: </b>Danielle Susi, Jeremy Freedman, Ellen Dymit, Matt Margo, Everett Warner, Bill Moran, Mia-Francesca McAuslan, Elijah Pearson, Farah Ghafoor, >Brie Ripley, Michael Hessel-Mial, >CLOTH
+<b>featuring: </b>Danielle Susi, Jeremy Freedman, Ellen Dymit, Matt Margo, Everett Warner, Bill Moran, Mia-Francesca McAuslan, Elijah Pearson, Farah Ghafoor, >Brie Ripley, Michael Hessel-Mial, CLOTH
 
 <h1><b><a href="../october2015">october 2015</a></b></h1>
 <b>featuring: </b>Chloe N. Clark, Jess Rizkallah, Dalton Kamish, Rebecca Brown, Ollie Ganim, S Kay, Maya Surya Pillay, Maria Ng, Nooks Krannie, scott-patrick mitchell, Jonathan Dubow, Luis Neer, Clayton Hensley, Hanisha Harjani
