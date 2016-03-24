@@ -19,8 +19,8 @@ h1 {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
-	font-family: "DK", "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
+	font-size: 12px;
+	font-family: "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
 	vertical-align: baseline;
 }
 
@@ -28,7 +28,7 @@ h2 {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 10px;
 	font-family: "Futura", "Liberation Mono", "Lucidia Sans", "Courier New", monospace;
 	vertical-align: baseline;
 }
