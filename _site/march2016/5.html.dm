@@ -1,25 +1,53 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<meta content="Oxosse sea krait by Phil SaintDenisSanchez" property="og:title" />
-	<meta content="Alien Mouth" property="og:site_name" />
-	<meta content="http://alienmouth.com/march2016/5.html/" property="og:url" />
-	<meta content="The march 2016 edition is out now. It is so good that it literally killed Elvis." property="og:description" />
-	<meta content="article" property="og:type" />
-	<meta content="http://alienmouth.com/march2016/alien.png" property="og:image" />
-	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-	<title>Oxosse sea krait by Phil SaintDenisSanchez | alien mouth</title>
-	<link href="../includes/style.css" rel="stylesheet" />
-	<link href="../includes/alien.png" rel="icon" type="image/png" />
+
+  <meta charset="UTF-8">
+  <title>Oxosse sea krait (Thai Snake Bite)</title>
+  <meta name="viewport" content="width=device-width">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <meta content="Oxosse sea krait (Thai Snake Bite) | Alien Mouth" property="og:title" />
+  <meta content="Alien Mouth" property="og:site_name" />
+  <meta content="http://alienmouth.com/march2016/5.html" property="og:url" />
+  <meta content="Welcome to Alien Mouth. We like to publish new, fun, and good art." property="og:description" />
+  <meta content="article" property="og:type" />
+  <meta content="http://alienmouth.com/journal/alien.png" property="og:image" />
+  <meta content="OjloE54m97kbqRiG7tnMRKDTZoIoG6ojsBDEm08ZGTI" name="google-site-verification" />
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+  <title>alien mouth</title>
+  <link href="/assets/css/style.css" rel="stylesheet" />
+  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+  <link href="http://alienmouth.com/includes/alien.png" rel="icon" type="image/png" />
+
 </head>
+
 <body>
-<div class="read">
-<p class="ts"><b>Oxosse sea krait</b></p>
-<b>(Thai Snake Bite)</b>
 
-<p>by Phil SaintDenisSanchez</p>
-&nbsp;
+  <div id="top"></div>
 
-<audio controls>
+    <div id="page">
+
+      <nav id="nav">
+        <ul id="nav-list">
+          <li><a href="/">home</a></li>
+          <li><a href="/about">about</a></li>
+          <li><a href="/journal">journal</a></li>
+          <li><a href="/books">books</a></li>
+          <li><a href="/reviews">reviews</a></li>
+          <li><a href="/submit">submit</a></li>
+        </ul>
+      </nav>
+
+      <div id="content">
+      
+        <h1>Oxosse sea krait (Thai Snake Bite)</h1>
+        <h2>Phil SaintDenisSanchez</h2>
+    	
+        <audio controls>
   <source src="Oxosse_sea_krait.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
@@ -132,27 +160,26 @@ i&rsquo;m not a soothsayer<br />
 _________________________<br />
 &sup1; &ldquo;Nobody sings anymore.&rdquo;<br>-Amiri Buraka<br /><br>
 &sup2; &ldquo;they don&rsquo;t dance no more&rdquo;<br>-Goodie Mob<br><br>
-<p><a href="/march2016/4.html">&lt; prev piece</a> <a href="/march2016/6.html">next piece&gt;</a><br />
-<br />
-<br />
-<br />
-&nbsp;</p>
-</div>
 
-<div class="linkclass"><a href="http://alienmouth.com">home</a><br />
-<a href="/about/">about</a><br />
-<a href="/journal/">journal</a><br />
-<a href="/books/">books</a><br />
-<a href="/reviews/">reviews</a><br />
-<a href="/submit/">submit</a><br />
-<a href="/donate/">donate</a></div>
+        <br><p>
+        
+          <a href="/march2016/4.html" class="float-left">&laquo; next</a>
+        
+        
+          <a href="/march2016/3.html" class="float-right">previous &raquo;</a>
+        
+        </p><br><br><br><br>
+      </div>
+  </div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
+    });
+  </script>
+
 </body>
-<script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-64711041-1', 'auto');
-        ga('send', 'pageview');
-    </script></html>
+</html>

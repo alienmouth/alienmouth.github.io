@@ -3,7 +3,7 @@ url: http://alienmouth.com
 description: a lit journal.
 
 gems: [jekyll-paginate]
-permalink: pretty
+permalink: none
 paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

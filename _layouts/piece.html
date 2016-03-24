@@ -10,7 +10,7 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <meta content="{{ page.title }}" property="og:title" />
+  <meta content="{{ page.title }} | Alien Mouth" property="og:title" />
   <meta content="Alien Mouth" property="og:site_name" />
   <meta content="http://alienmouth.com{{ page.url }}" property="og:url" />
   <meta content="Welcome to Alien Mouth. We like to publish new, fun, and good art." property="og:description" />
@@ -27,13 +27,12 @@
 
 <body>
 
-  <header id="header"></header>
+  <div id="top"></div>
 
-  <div id="page">
+    <div id="page">
 
-    <div id="sidebar">
-      <nav>
-        <ul>
+      <nav id="nav">
+        <ul id="nav-list">
           <li><a href="/">home</a></li>
           <li><a href="/about">about</a></li>
           <li><a href="/journal">journal</a></li>
@@ -42,17 +41,23 @@
           <li><a href="/submit">submit</a></li>
         </ul>
       </nav>
-    </div>
 
-    <h1>{{ page.title }}</h1>
-	<h2>{{ page.author }}</h2>
-	
-	<div class="item-wrapper">
-		<div class="item">
-			<div>{{ content }}</div>
-		</div>
-	</div>
+      <div id="content">
+      
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.author }}</h2>
+    	
+        {{ content }}
 
+        <br><p>
+        {% if page.next_in_category != nil %}
+          <a href="{{page.next_in_category.url}}" class="float-left">&laquo; next</a>
+        {% endif %}
+        {% if page.previous_in_category != nil %}
+          <a href="{{page.previous_in_category.url}}" class="float-right">previous &raquo;</a>
+        {% endif %}
+        </p><br><br><br><br>
+      </div>
   </div>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
