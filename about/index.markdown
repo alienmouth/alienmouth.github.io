@@ -4,7 +4,7 @@ title: about
 ---
 
 editor in chief :: [davis land](http://davisland.info)<br>
-managing editor :: [james leaf](http://twitter.com/james_leaf)<br>
+managing editor :: [gage ledbetter](https://twitter.com/gageledbetter_)<br>
 reviewing coordinator :: [christopher morgan](http://andlohespoke.tumblr.com/)
 
 
