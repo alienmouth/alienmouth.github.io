@@ -4,7 +4,7 @@ title: december 2015
 ---
 <div align="center">
 	<iframe src="https://player.vimeo.com/video/147653721" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    <p><h1>december 2015</h1></p>
+    <p><h1>december 2015</h1></p><br>
 </div>
 <div align="left">
     {% for post in site.categories.december2015 %}
