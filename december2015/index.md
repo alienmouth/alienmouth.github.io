@@ -10,7 +10,7 @@ title: december 2015
     {% for post in site.categories.december2015 %}
     <div class="items-wrapper">
         <div class="item">
-            <p><a href="{{ site.url }}{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
+            <p><a href="../{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
             <br />
             <br />
         </div>

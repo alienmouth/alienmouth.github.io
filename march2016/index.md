@@ -10,7 +10,7 @@ title: march 2016
     {% for post in site.categories.march2016 %}
     <div class="items-wrapper">
         <div class="item">
-            <p><a href="{{ site.url }}{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
+            <p><a href="../{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
             <br />
             <br />
         </div>
@@ -20,7 +20,7 @@ title: march 2016
 </div>
 
 <br><br>
-<p align="center"><a href="/march2016/people.html">read everyone's bio here</a></p>
+<p align="center"><a href="../march2016/people.html">read everyone's bio here</a></p>
 <br>
 
 <div align="center">
