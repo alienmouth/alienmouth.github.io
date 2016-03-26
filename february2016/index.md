@@ -6,12 +6,11 @@ title: february 2016
     <iframe src="https://player.vimeo.com/video/155083008" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><h1>february 2016</h1></p><br>
 </div>
-<div align="left">
+<div align="center">
     {% for post in site.categories.february2016 %}
     <div class="items-wrapper">
         <div class="item">
             <p><a href="../{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
-            <br />
             <br />
         </div>
     </div>

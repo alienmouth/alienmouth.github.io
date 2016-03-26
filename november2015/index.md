@@ -6,12 +6,11 @@ title: november 2015
     <iframe src="https://player.vimeo.com/video/144661082" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><h1>november 2015</h1></p><br>
 </div>
-<div align="left">
+<div align="center">
     {% for post in site.categories.november2015 %}
     <div class="items-wrapper">
         <div class="item">
             <p><a href="../{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
-            <br />
             <br />
         </div>
     </div>

@@ -6,12 +6,11 @@ title: july 2015
     <iframe src="https://player.vimeo.com/video/132136575" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><h1>july 2016</h1></p>
 </div>
-<div align="left">
+<div align="center">
     {% for post in site.categories.july2015 %}
     <div class="items-wrapper">
         <div class="item">
             <p><a href="../{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
-            <br />
             <br />
         </div>
     </div>
