@@ -1,4 +1,4 @@
- ---
+---
  layout: default
  title: july 2015
  ---
