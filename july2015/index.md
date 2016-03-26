@@ -1,7 +1,7 @@
 ---
- layout: default
- title: july 2015
- ---
+layout: default
+title: july 2015
+---
 <div align = "center">
     <iframe src="https://player.vimeo.com/video/132136575" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><h1>july 2016</h1></p>
