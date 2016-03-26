@@ -12,7 +12,6 @@ title: december 2015
         <div class="item">
             <p><a href="../{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
             <br />
-            <br />
         </div>
     </div>
         
