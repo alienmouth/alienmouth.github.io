@@ -30,7 +30,7 @@ date: 2015-08-01 01:00:00
     Shane Jesse Christmass<br>
     Tyler Baron<br>
     Waylon Cunningham</p>
-    <br><br><br>
+    <br>
     <a href="http://amzn.com/1516945794">get a copy - $7 - amazon</a>
     <br><br><br>
     <h1><a class = "ts">other editions</a></h1><br>
