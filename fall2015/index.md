@@ -4,7 +4,7 @@ title: fall 2015 - the quarterly
 date: 2015-08-01 01:00:00
 ---
 <div align="center">
-    <iframe src="https://player.vimeo.com/video/152604296" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+    <iframe src="https://player.vimeo.com/video/152604296" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><h1>the quarterly</h1></p>
     <a href="http://amzn.com/1516945794">click here to get a copy - $7 - amazon</a>
     <p align="center">with work from:</p>
@@ -18,7 +18,7 @@ date: 2015-08-01 01:00:00
     Ebony Stewart<br>
     Elle Nash<br>
     Emily Eigner<br>
-    Glen Armstrong</p>
+    Glen Armstrong<br>
     James Leaf<br>
     Joshua Hart<br>
     Josh Reed<br>
