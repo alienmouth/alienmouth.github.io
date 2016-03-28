@@ -3,7 +3,7 @@ layout: default
 title: winter quarterly 2016
 ---
 <div align="center">
-    <iframe src="https://player.vimeo.com/video/152604296" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+    <iframe src="https://player.vimeo.com/video/152604296" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><h1>the quarterly</h1></p>
     <a href="http://amzn.com/1522952233">click here to get a copy - $7 - amazon</a>
     <p align="center">with work from:</p>

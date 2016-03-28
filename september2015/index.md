@@ -1,13 +1,13 @@
 ---
 layout: default
-title: october 2015
+title: september 2015
 ---
 <div align="center">
-    <iframe src="https://player.vimeo.com/video/141356709" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/137715755" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><h1>october 2015</h1></p><br>
 </div>
 <div align="center">
-    {% for post in site.categories.october2015 %}
+    {% for post in site.categories.september2015 %}
     <div class="items-wrapper">
         <div class="item">
             <p><a href="../{{ post.url }}">{{ post.title }} by {{ post.author }}</a>
