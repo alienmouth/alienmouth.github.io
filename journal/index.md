@@ -4,6 +4,13 @@ title: journal
 date: 2016-02-22 17:06:25
 ---
 
+<h1><b><a href="../april2016">april 2016</a></b></h1>
+<div style="display: inline;"> :
+{% for post in site.categories.april2016 %}
+	: {{ post.author }} :
+{% endfor %}
+:</div>
+
 <h1><b><a href="../march2016">march 2016</a></b></h1>
 <div style="display: inline;"> :
 {% for post in site.categories.march2016 %}
