@@ -63,12 +63,12 @@ body {
 
 a, a:active, a:visited {
 	text-decoration: none;
-	border-bottom: 1px solid #839496;
+	border-bottom: 1px solid #FB706F;
 	padding-bottom: 0px;
 }
 a:hover {
-	background-color: #839496;
-	color: white;
+	background-color: #FB706F;
+	color: #632C2C;
 }
 
 p, pre { margin-bottom: 15px; }
