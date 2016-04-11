@@ -49,12 +49,12 @@
     	
         {{ content }}
 
-        <br><p>
+        <br><p id="content-nav">
         {% if page.next_in_category != nil %}
           <a href="{{page.next_in_category.url}}" class="float-right">next &raquo;</a>
         {% endif %}
         {% if page.previous_in_category != nil %}
-          <a href="{{page.previous_in_category.url}}" class="float-left">&laquo; previous </a>
+          <a href="{{page.previous_in_category.url}}" class="float-left">&laquo; prev </a>
         {% endif %}
         </p><br><br><br><br>
       </div>
