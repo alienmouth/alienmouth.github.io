@@ -36,6 +36,8 @@ date: 2016-02-22 17:06:25
 	</div>
 </div>
 
+<br><br><br>
+
 <div class="items-wrapper">
 	<div class="item">
 		<img src="../images/leaves.jpg" style="width:200px; height:200px;">
