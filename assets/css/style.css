@@ -113,7 +113,9 @@ h3 {
 	margin: 0 0 10px 0;
 }
 
-
+.line-bigger {
+	line-height: 110%;
+}
 
 /*** Useful Classes ***/
 .clear { clear: both; }
