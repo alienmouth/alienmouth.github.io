@@ -42,7 +42,7 @@ date: 2016-02-22 17:06:25
 	<div class="item">
 		<img src="../images/leaves.jpg" style="width:200px; height:200px;">
 		<p>Petals<br>
-		by Davis Land &amp; Gage Ledbetter (as James Leaf)</p>
+		by <a href="http://davisland.info">Davis Land</a> &amp; <a href="http://twitter.com/gage_ledbetter">Gage Ledbetter (as James Leaf)</a></p>
 	</div>
 
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
