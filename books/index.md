@@ -38,7 +38,7 @@ date: 2016-02-22 17:06:25
 
 <div class="items-wrapper">
 	<div class="item">
-		<img src="../images/petals.png" style="width:200px; height:200px;">
+		<img src="../images/leaves.jpg" style="width:200px; height:200px;">
 		<p>Petals<br>
 		by Davis Land &amp; Gage Ledbetter (as James Leaf)</p>
 	</div>
