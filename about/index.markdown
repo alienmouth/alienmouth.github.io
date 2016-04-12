@@ -13,7 +13,7 @@ we make [books](http://alienmouth.com/books) and a [journal](http://alienmouth.c
 we like to publish new, fun, and good art. you should [submit](http://alienmouth.com/submit).
 
 follow us on twitter [@alienmouth](http://twitter.com/alienmouth)<br>
-follow us on tumblr alienmouth on [tumblr](http://alienmouth.tumblr.com)<br>
-like us on facebook alienmouth on [facebook](https://www.facebook.com/alienmouth/)
+follow us on [tumblr](http://alienmouth.tumblr.com)<br>
+like us on [facebook](https://www.facebook.com/alienmouth/)
 
 email us at [alienmouthbooks](mailto:alienmouthbooks@gmail.com)
