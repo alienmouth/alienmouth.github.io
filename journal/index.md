@@ -4,6 +4,17 @@ title: journal
 date: 2016-02-22 17:06:25
 ---
 
+<h1><b><a href="../june2016">june 2016</a></b></h1>
+<div style="display: inline;"> 
+{% for post in site.categories.june2016 %}
+	{% if forloop.last %}
+		{{ post.author }}
+	{% else %}
+		{{ post.author }}, 
+	{% endif %}
+{% endfor %}
+</div>
+
 <h1><b><a href="../spring2016">spring 2016</a></b></h1>
 <div style="display: inline;"> Adam Tedesco, Ali Znaidi, Anna Lea Jancewicz, August Smith, Benjamin DeVos, Beyza Ozer, Erick Saenz, Jeremy Boyd, Jessie Janeshek, joe nicholas, Johnathan Harper, joseph parker okay, Kathy Rudin, Kendra Oakes, Laura Brun, Lino Anunciacion, LM Rivera, Maia Dolphin-Krute, Marianna Hagler, Marlena Chertock, Rachelle Toarmino
 </div>

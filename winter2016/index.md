@@ -34,5 +34,5 @@ title: winter quarterly 2016
     <a href="http://amzn.com/1522952233">get a copy - $7 - amazon</a>
     <br><br><br>
     <h1><a class = "ts">other editions</a></h1><br>
-    <a href="../july2015/">july 2015</a> / <a href="../fall2015/">fall quarterly 2015</a> / <a href="../september2015/">september 2015</a> <br> <a href="../october2015/">october 2015</a> / <a href="../november2015/">november 2015</a> / <a href="../december2015/">december 2015</a> <br> <a href="../february2016/">february 2016</a> / <a href="../march2016">march 2016</a>
+    <a href="../july2015/">july 2015</a> / <a href="../fall2015/">fall quarterly 2015</a> / <a href="../september2015/">september 2015</a> <br> <a href="../october2015/">october 2015</a> / <a href="../november2015/">november 2015</a> / <a href="../december2015/">december 2015</a> <br> <a href="../february2016/">february 2016</a> / <a href="../march2016">march 2016</a> / <a href="../spring2016/">spring 2016</a>   / <a href="../april2016/">april 2016</a> / <a href="../june2016/">june 2016</a>
 </div>
