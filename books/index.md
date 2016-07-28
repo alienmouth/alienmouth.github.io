@@ -11,7 +11,7 @@ date: 2016-02-22 17:06:25
 		<br />
 		by <a href="http://goodghostbill.bandcamp.com/">bill moran</a> &amp; <a href="http://simonkindt.com/">simon kindt</a></p>
 
-		<p><a href="https://www.amazon.com/wreck-age-odd-little-book/dp/1517256550/>ORDER HERE</a></p>
+		<p><a href="https://www.amazon.com/wreck-age-odd-little-book/dp/1517256550/">ORDER HERE</a></p>
 	</div>
 </div>
 
