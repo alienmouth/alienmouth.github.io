@@ -4,7 +4,7 @@ title: july 2016
 ---
 <div align = "center">
     <iframe src="https://player.vimeo.com/video/171870237" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    <p><h1>june 2016</h1></p>
+    <p><h1>july 2016</h1></p>
 </div>
 <div align="center">
     {% for post in site.categories.july2016 %}
