@@ -32,7 +32,7 @@ date: 2016-02-22 17:06:25
 
 <h1><b><a href="../march2016">march 2016</a></b></h1>
 <div style="display: inline;"> 
-{% for post in site.categories.april2016 %}
+{% for post in site.categories.march2016 %}
 	{% if forloop.last %}
 		{{ post.author }}
 	{% else %}
@@ -43,7 +43,7 @@ date: 2016-02-22 17:06:25
 
 <h1><b><a href="../february2016">february 2016</a></b></h1>
 <div style="display: inline;"> 
-{% for post in site.categories.april2016 %}
+{% for post in site.categories.february2016 %}
 	{% if forloop.last %}
 		{{ post.author }}
 	{% else %}
@@ -56,7 +56,7 @@ date: 2016-02-22 17:06:25
 
 <h1><b><a href="../december2015">december 2015</a></b></h1>
 <div style="display: inline;">
-{% for post in site.categories.april2016 %}
+{% for post in site.categories.december2016 %}
 	{% if forloop.last %}
 		{{ post.author }}
 	{% else %}
@@ -67,7 +67,7 @@ date: 2016-02-22 17:06:25
 
 <h1><b><a href="../november2015">november 2015</a></b></h1>
 <div style="display: inline;">
-{% for post in site.categories.april2016 %}
+{% for post in site.categories.november2016 %}
 	{% if forloop.last %}
 		{{ post.author }}
 	{% else %}
@@ -78,7 +78,7 @@ date: 2016-02-22 17:06:25
 
 <h1><b><a href="../october2015">october 2015</a></b></h1>
 <div style="display: inline;">
-{% for post in site.categories.april2016 %}
+{% for post in site.categories.october2016 %}
 	{% if forloop.last %}
 		{{ post.author }}
 	{% else %}
@@ -89,7 +89,7 @@ date: 2016-02-22 17:06:25
            
 <h1><b><a href="../september2015">september 2015</a></b></h1>
 <div style="display: inline;">
-{% for post in site.categories.april2016 %}
+{% for post in site.categories.september2016 %}
 	{% if forloop.last %}
 		{{ post.author }}
 	{% else %}
