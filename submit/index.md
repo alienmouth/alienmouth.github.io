@@ -9,7 +9,7 @@ our print quarterly accepts prose (essays, reviews, fiction), poetry, and black 
 
 we accept submissions in .txt, .doc, .docx, and .pages files for written work. for visual art please use .png or .jpg in the highest quality. our print edition is in black and white, so if you’re submitting visual art to the quarterly please keep that in mind. for music submissions please send a link to soundcloud.
 
-email [alienmouthbooks@gmail.com](mailto:alienmouthbooks@gmail.com) with your work attached. include which version (either the monthly online or the quarterly print) of alien mouth you are submitting to in the subject line. *if you do not include which version, your submission will not be read, submissions to both are not allowed* in the body please include a short, third person bio, with the exact grammar and punctuation you would like us to use. keep in mind that the month the quarterly is published there will be no online version.
+email [alienmouthbooks@gmail.com](mailto:alienmouthbooks@gmail.com) with your work attached. include which version (either the monthly online or the quarterly print) of alien mouth you are submitting to in the subject line. *if you do not include which version, your submission will not be read, submissions to both are not allowed.* in the body please include a short, third person bio, with the exact grammar and punctuation you would like us to use. keep in mind that the month the quarterly is published there will be no online version.
 
 we operate on rolling submissions basis. if you don't hear back from us, even if the issue you specified is published, we're still considering your submission
 
