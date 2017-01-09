@@ -1,80 +1,62 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta charset="UTF-8">
-  <title>about</title>
-  <meta name="viewport" content="width=device-width">
+  <title>About</title>
+  <meta name="description" content="a literary and arts journal">
 
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
 
-  <meta content="about | Alien Mouth" property="og:title" />
-  <meta content="Alien Mouth" property="og:site_name" />
-  <meta content="http://alienmouth.com/about/" property="og:url" />
-  <meta content="Welcome to Alien Mouth. We like to publish new, fun, and good art." property="og:description" />
-  <meta content="article" property="og:type" />
-  <meta content="http://alienmouth.com/journal/alien.png" property="og:image" />
-  <meta content="OjloE54m97kbqRiG7tnMRKDTZoIoG6ojsBDEm08ZGTI" name="google-site-verification" />
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-  <title>alien mouth</title>
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
-  <link href="http://alienmouth.com/includes/alien.png" rel="icon" type="image/png" />
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
 
+  <link rel="canonical" href="/about/">
+
+  <link rel="alternate" type="application/rss+xml" title="Alien Mouth" href="/feed.xml" />
 </head>
 
-<body>
+  <body class="full-width">
+    <!--- Header and nav template site-wide -->
+<header>
+	<a href="/"><img class="amlogo" src="/assets/img/logo.png" alt="CH"></a><br />
+	<div class="nav_custom">
+		<a href="/about/">about</a>
+		<a href="/books/">books</a>
+		<a href="/connect/">connect</a>
+		<a href="https://alienmouth.submittable.com/submit">submit</a>
+	</div>
+</header>
+    <article>
+      <p>editor in chief :: <a href="http://davisland.info">davis land</a></p>
 
-  <div id="top"></div>
+<p>managing editor :: <a href="https://twitter.com/gage_ledbetter">gage ledbetter</a></p>
 
-  <div id="page">
-
-      <nav id="nav">
-        <ul id="nav-list">
-          <li><a href="/">home</a></li>
-          <li><a href="/about">about</a></li>
-          <li><a href="/journal">journal</a></li>
-          <li><a href="/books">books</a></li>
-          <li><a href="/reviews">reviews</a></li>
-          <li><a href="/submit">submit</a></li>
-        </ul>
-      </nav>
-
-    <div id="content">
-      <p>editor in chief :: <a href="http://davisland.info">davis land</a><br />
-managing editor :: <a href="https://twitter.com/gage_ledbetter">gage ledbetter</a><br />
-reviewing coordinator :: <a href="http://andlohespoke.tumblr.com/">christopher morgan</a></p>
-
-<p>we make <a href="http://alienmouth.com/books">books</a> and a <a href="http://alienmouth.com/journal">journal</a></p>
+<p>reviewing coordinator :: <a href="http://andlohespoke.tumblr.com/">christopher morgan</a></p>
 
 <p>we like to publish new, fun, and good art. you should <a href="http://alienmouth.com/submit">submit</a>.</p>
 
-<p>publishing costs money. we don’t do ads. we don’t like to make people pay alot. if you’re able, however, you can <a href="http://alienmouth.com/donate">donate</a> or subscribe to our <a href="http://patreon.com/alienmouth">patreon</a></p>
+<p>follow us on twitter <a href="http://twitter.com/alienmouth">@alienmouth</a></p>
 
-<p>follow us on twitter <a href="http://twitter.com/alienmouth">@alienmouth</a><br />
-follow us on <a href="http://alienmouth.tumblr.com">tumblr</a><br />
-like us on <a href="https://www.facebook.com/alienmouth/">facebook</a></p>
+<p>like us on <a href="https://www.facebook.com/alienmouth/">facebook</a></p>
 
 <p>email us at <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#097;&#108;&#105;&#101;&#110;&#109;&#111;&#117;&#116;&#104;&#098;&#111;&#111;&#107;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">alienmouthbooks</a></p>
 
-<p>thanks to everyone who has donated via our paypal page: Christopher Morgan, Hannah Grunwald, Steve Roggenbuck, and Nikole Jewell</p>
 
-    </div>
-
-  </div>
-
-  <br> <br> <br> <br> <br><br><br><br><br>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
-
-  <script>
-    $(document).ready(function(){
-      $('#nav nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#nav nav'});
-    });
-  </script>
-
-</body>
+    </article>
+    <span class="print-footer">About - </span>
+    <footer>
+  <br /> <br />
+</footer>
+  </body>
 </html>

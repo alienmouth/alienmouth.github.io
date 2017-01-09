@@ -1,104 +1,65 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta charset="UTF-8">
-  <title>books</title>
-  <meta name="viewport" content="width=device-width">
+  <title>Books</title>
+  <meta name="description" content="a literary and arts journal">
 
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
 
-  <meta content="books | Alien Mouth" property="og:title" />
-  <meta content="Alien Mouth" property="og:site_name" />
-  <meta content="http://alienmouth.com/books/" property="og:url" />
-  <meta content="Welcome to Alien Mouth. We like to publish new, fun, and good art." property="og:description" />
-  <meta content="article" property="og:type" />
-  <meta content="http://alienmouth.com/journal/alien.png" property="og:image" />
-  <meta content="OjloE54m97kbqRiG7tnMRKDTZoIoG6ojsBDEm08ZGTI" name="google-site-verification" />
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-  <title>alien mouth</title>
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
-  <link href="http://alienmouth.com/includes/alien.png" rel="icon" type="image/png" />
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
 
+  <link rel="canonical" href="/books/">
+
+  <link rel="alternate" type="application/rss+xml" title="Alien Mouth" href="/feed.xml" />
 </head>
 
-<body>
-
-  <div id="top"></div>
-
-  <div id="page">
-
-      <nav id="nav">
-        <ul id="nav-list">
-          <li><a href="/">home</a></li>
-          <li><a href="/about">about</a></li>
-          <li><a href="/journal">journal</a></li>
-          <li><a href="/books">books</a></li>
-          <li><a href="/reviews">reviews</a></li>
-          <li><a href="/submit">submit</a></li>
-        </ul>
-      </nav>
-
-    <div id="content">
-      <div class="items-wrapper">
-	<div class="item">
-		<img alt="wreck/age" src="../images/wreckage.png" style="width:200px;height:200px;" />
-		<p>wreck / age (SHIPPING OCT. 14, 2015)<br />
-		poetry - 60 pages - soft cover paperback - $15 USD<br />
-		<br />
-		by <a href="http://goodghostbill.bandcamp.com/">bill moran</a> &amp; <a href="http://simonkindt.com/">simon kindt</a></p>
-
-		<p><a href="https://www.amazon.com/wreck-age-odd-little-book/dp/1517256550/">ORDER HERE</a></p>
+  <body class="full-width">
+    <!--- Header and nav template site-wide -->
+<header>
+	<a href="/"><img class="amlogo" src="/assets/img/logo.png" alt="CH"></a><br />
+	<div class="nav_custom">
+		<a href="/about/">about</a>
+		<a href="/books/">books</a>
+		<a href="/connect/">connect</a>
+		<a href="https://alienmouth.submittable.com/submit">submit</a>
 	</div>
-</div>
+</header>
+    <article>
+      <p><img src="/books/wreckage.png" alt="wreck/age" /></p>
 
-<p><br /><br /><br /></p>
+<p><strong>wreck / age</strong><br />
+by Bill Moran and Simon Kindt<br />
+poetry - 60 pages - soft cover paperback - $15 USD</p>
 
-<div class="items-wrapper">
-	<div class="item">
-		<img alt="Flammidemia" src="../images/william.png" style="width:200px;height:200px;" />
-		<p>Flammidemia.<br />
-		<br />
-		by <a href="http://www.williamjamespoetry.com/">william james</a></p>
+<p><a href="https://www.amazon.com/wreck-age-odd-little-book/dp/1517256550">ORDER HERE</a></p>
 
-		<p><a href="../books/Flammidemia.pdf">read Flammidenia online</a></p>
-	</div>
-</div>
+<p><br /></p>
 
-<p><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<p><img src="/books/Flame.png" alt="Flammidenia." /></p>
 
-<div class="items-wrapper">
-	<div class="item">
-		<img src="../images/leaves.jpg" style="width:200px; height:200px;" />
-		<p>Petals<br />
-		by <a href="http://davisland.info">Davis Land</a> &amp; <a href="http://twitter.com/gage_ledbetter">Gage Ledbetter (as James Leaf)</a></p>
-	</div>
+<p><strong>Flammidenia.</strong><br />
+by William James<br />
+poetry - online pdf - free to read</p>
 
-	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-		<input type="hidden" name="cmd" value="_s-xclick" />
-		<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
-		" />
-		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-	</form>
-</div>
+<p><a href="Flammidemia.pdf">READ HERE</a></p>
 
-    </div>
-
-  </div>
-
-  <br> <br> <br> <br> <br><br><br><br><br>
-
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
-
-  <script>
-    $(document).ready(function(){
-      $('#nav nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#nav nav'});
-    });
-  </script>
-
-</body>
+    </article>
+    <span class="print-footer">Books - </span>
+    <footer>
+  <br /> <br />
+</footer>
+  </body>
 </html>

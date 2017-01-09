@@ -1,9 +1,17 @@
-name: alien mouth
-url: http://alienmouth.com
-description: a lit journal.
-
+baseurl:
+title: Alien Mouth
+simple_search: http://google.com/search
+description: a literary and arts journal
+name: Alien Mouth
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
 gems: [jekyll-paginate]
-permalink: none
 paginate: 10
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
