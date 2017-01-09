@@ -4,8 +4,8 @@ title: Alien Mouth
 # Note that this index page uses a full-width layout!
 ---
   <br /> <br />
-  <ul class="content-listing ">
-    {% for post in site.posts %}      
+  <ul class="content-listing">
+    {% for post in paginator.posts %}      
         <li class="listing">
           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
           <br><span class="smaller">by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
@@ -14,3 +14,14 @@ title: Alien Mouth
         </li>
     {% endfor %}
   </ul>
+
+<!-- Pagination links -->
+<div class="pagination">
+  <span class="page_number">{{ paginator.page }} of {{ paginator.total_pages }}</span><br />
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous"><< Previous</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next >></a>
+  {% endif %}
+</div>

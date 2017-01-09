@@ -88,6 +88,20 @@ html{
   width: 60%;
 }
 
+.pagination {
+  font-size: 1.3rem;
+}
+
+.page_number {
+  font-size: 1.5rem;
+}
+
+.books {
+  width: 50%;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
 // sets link style according to values in _settings.scss
 .mathblock{
   font-size: 1.3rem;

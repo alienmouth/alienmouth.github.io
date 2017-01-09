@@ -14,4 +14,4 @@ page:
   template: _page.txt
   extension: md
 gems: [jekyll-paginate]
-paginate: 10
+paginate: 5

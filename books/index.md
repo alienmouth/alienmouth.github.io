@@ -1,5 +1,5 @@
 ---
-layout: full-width
+layout: book
 title: Books
 ---
 
@@ -9,7 +9,7 @@ title: Books
 by Bill Moran and Simon Kindt<br />
 poetry - 60 pages - soft cover paperback - $15 USD
 
-[ORDER HERE](https://www.amazon.com/wreck-age-odd-little-book/dp/1517256550)
+--> --> [ORDER HERE](https://www.amazon.com/wreck-age-odd-little-book/dp/1517256550) <-- <--
 
 <br />
 
@@ -19,4 +19,4 @@ poetry - 60 pages - soft cover paperback - $15 USD
 by William James<br />
 poetry - online pdf - free to read
 
-[READ HERE](Flammidemia.pdf)
+--> --> [READ HERE](Flammidemia.pdf) <-- <--
