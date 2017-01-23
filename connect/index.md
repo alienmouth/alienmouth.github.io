@@ -2,9 +2,7 @@
 layout: full-width
 title: Connect
 ---
-
-follow us on twitter: [@alienmouth](http://twitter.com/alienmouth)<br />
-follow us on facebook: [@alienmouth](http://facebook.com/alienmouth)
+<a href="https://twitter.com/alienmouth" class="twitter-follow-button" data-show-count="false">Follow @alienmouth</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

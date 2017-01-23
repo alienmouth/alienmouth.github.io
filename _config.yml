@@ -15,3 +15,4 @@ page:
   extension: md
 gems: [jekyll-paginate]
 paginate: 5
+permalink: /:categories/:title.html

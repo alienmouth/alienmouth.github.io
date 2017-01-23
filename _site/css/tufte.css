@@ -214,9 +214,8 @@ html {
 .amlogo {
   display: block;
   margin: auto;
-  height: 10rem;
   position: relative;
-  max-width: 50%;
+  max-width: 35%;
   top: 1.5rem; }
 
 .nav_custom {
@@ -235,9 +234,13 @@ html {
   margin-right: 1em; }
 
 .custom_read {
-  margin-right: 20%;
-  margin-left: 20%;
-  width: 60%; }
+  margin-right: 10%;
+  margin-left: 10%;
+  width: 80%; }
+
+.inline_poem {
+  width: 60%;
+  margin: 0 auto; }
 
 .pagination {
   font-size: 1.3rem; }
@@ -664,7 +667,7 @@ h1.content-listing-header {
   font-size: 1.8rem; }
 
 li.listing hr {
-  width: 100%; }
+  width: 400px; }
 
 .listing, .listing h3 {
   display: inline-block;
