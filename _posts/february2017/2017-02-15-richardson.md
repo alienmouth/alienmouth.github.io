@@ -1,7 +1,7 @@
 ---
 layout: piece
 title: County Fair
-author: 
+author: Demi Richardson
 date: 2017-02-15 10:00:00
 category: february2017
 bio: "Demi Richardson studies writing at Indiana University of Pennsylvania. Her work has previously appeared or is forthcoming with Broken Tooth Press, Words Dance, SLAB Sound and Lit, and Glass Kite Anthology."
