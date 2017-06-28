@@ -82,9 +82,8 @@ html{
 }
 
 .custom_read {
-  margin-right: 10%;
   margin-left: 10%;
-  width: 80%;
+  max-width: none;
 }
 
 .inline_poem {
@@ -456,10 +455,10 @@ ul.footer-links li{
 //Full width page styling stuff
 
 body.full-width { 
-      width: 50%;
-       margin-left: auto;
-       margin-right: auto;
-       padding: 0% 5%;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0% 5%;
 }
 body.content-listing, ul.content-listing li.listing{
   width: 100%;
@@ -468,7 +467,7 @@ body.content-listing, ul.content-listing li.listing{
   padding: 0% 5%;
 }
 .full-width article p{
-  width: 90%;
+  max-width: none;
 }
 
 
