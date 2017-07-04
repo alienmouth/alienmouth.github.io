@@ -5,8 +5,8 @@
     <description>a literary and arts journal</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jun 2017 18:19:19 -0500</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2017 18:19:19 -0500</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2017 18:23:30 -0500</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2017 18:23:30 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -114,11 +114,11 @@ could be as true as all that&lt;br /&gt;
 &lt;em&gt;gestures above the two of us&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Jun 2017 20:00:00 -0500</pubDate>
-        <link>/drafts/alan.html</link>
-        <guid isPermaLink="true">/drafts/alan.html</guid>
+        <link>/june2017/alan.html</link>
+        <guid isPermaLink="true">/june2017/alan.html</guid>
         
         
-        <category>drafts</category>
+        <category>june2017</category>
         
       </item>
     
