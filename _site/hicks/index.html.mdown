@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <!DOCTYPE html>
+<head>
+  <link href="../css/lightbox.css" rel="stylesheet">
+  <script src="../css/lightbox.js"></script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:url" content="http://alienmouth.com/hicks/" />
+  <meta property="og:description" content="Alien Mouth publishes writing and audio/visual art" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Peut être" />
+  <meta property="og:image" content="http://alienmouth.com/assets/img/og_image.png" />
+  <meta property="og:site_name" content="Alien Mouth">
+
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@alienmouth" />
+  <meta name="twitter:title" content="Peut être" />
+  <meta name="twitter:description" content="Alien Mouth publishes writing and audio/visual art" />
+  <meta name="twitter:image" content="http://alienmouth.com/assets/img/twitter.png" />
+
+  <title>Peut être</title>
+  <meta name="description" content="My boy wears grease that smells like cinnamon in his hair.It lingers on the pillows and I don’t want to forget that.There aren’t any squash in the garden but...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+  
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="/hicks/">
+
+  <link rel="alternate" type="application/rss+xml" title="Alien Mouth" href="/feed.xml" />
+</head>
+
+  <body class="full-width">
+    <!--- Header and nav template site-wide -->
+<header>
+	<a href="/"><img class="amlogo" src="/assets/img/logo.png" alt="CH"></a><br />
+	<div class="nav_custom">
+		<a href="/">journal</a>
+		<a href="/reviews/">reviews</a>
+		<a href="/books/">books</a>
+		<a href="/about/">about</a>
+		<a href="/connect/">connect</a>
+		<a href="https://alienmouth.submittable.com/submit">submit</a>
+	</div>
+</header>
+<br /><br />
+    <article>
+      <br />
+<h1><center>Peut être</center></h1>
+<p class="subtitle"><center>by Savannah Hicks on July 20, 2017</center></p><br />
+<hr><br /><br />
+<div class="custom_read">
+	My boy wears grease that <br>
+smells like cinnamon in his hair.<br>
+It lingers on the pillows <br>
+and I don’t want to forget that.<br><br>
+
+There aren’t any squash in the garden but<br>
+the blooms sure look pretty<br>
+like springtime tender<br>
+even in the eleventh month.<br><br>
+
+When there is rose <br>
+lemonade at the market<br>
+and when there are curbsides <br>
+bathed in sunlight, <br>
+maybe.<br>
+
+	<br /><br />
+</div>
+<hr><br /><br />
+Savannah Grace Hicks is a student of Creative Writing with an emphasis in poetry at the University of Arizona in Tucson.
+    </article>
+    <span class="print-footer">Peut être - July 20, 2017 - </span>
+	<script>
+	  (function() {
+	    var cx = '012309109243193332464:aa5o5mifvhy';
+	    var gcse = document.createElement('script');
+	    gcse.type = 'text/javascript';
+	    gcse.async = true;
+	    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(gcse, s);
+	  })();
+	</script>
+	<gcse:search></gcse:search>
+    <footer>
+  <br />
+</footer>
+  </body>
+</html>
